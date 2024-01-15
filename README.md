@@ -1,2 +1,2 @@
-# My-repository
+# My Learning Repository
 AutomateTheBoringStuffProjects
