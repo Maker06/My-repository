@@ -5,7 +5,7 @@
 # Preset values:
 accountSID = 'AC3fea6e4e7e285b7b5d4b1c5760252da4'
 authToken = '9e5a96026d653fbfb944a4ccdbb8f3e8'
-myNumber = '+380976038100'
+myNumber = '+************'
 twilioNumber = '+14159496645'
 from twilio.rest import Client
 
